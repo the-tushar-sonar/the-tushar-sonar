@@ -1,244 +1,31 @@
-# GitHub Profile README Template
+# 💫 About Me:
+I'm Tushar Sonar.<br>Pursuing Master's in Computer Application @VJTI<br>Passionate about web development, machine learning, and building practical projects.<br>I enjoy experimenting with new technologies, solving real-world problems, and continuously improving my skills.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+[Your+Name]+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Building+amazing+things+with+code!" alt="Typing SVG" />
-</div>
 
-## ðŸ‘¨â€ðŸ’» About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-sonar-in) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mylordtushar@gmail.com) 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=the-tushar-sonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=the-tushar-sonar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-tushar-sonar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- ðŸ”­ I'm currently working on **[Current Project Name]**
-- ðŸŒ± I'm currently learning **[Technology/Framework]**
-- ðŸ‘¯ I'm looking to collaborate on **[Type of Projects]**
-- ðŸ¤” I'm looking for help with **[Something specific]**
-- ðŸ’¬ Ask me about **[Your expertise areas]**
-- ðŸ“« How to reach me: **[Your Email]**
-- ðŸ˜„ Pronouns: **[Your pronouns]**
-- âš¡ Fun fact: **[Something interesting about you]**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=the-tushar-sonar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ðŸ› ï¸ Technologies & Tools
-
-### Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-</p>
-
-### Frontend Development
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-### Backend Development
-<p align="left">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-</p>
-
-### Databases
-<p align="left">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=the-tushar-sonar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=the-tushar-sonar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ðŸ“Š GitHub Statistics
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tusharsonar9604) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=[YourUsername]&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
----
-
-## ðŸ”¥ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be auto-updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
----
-
-## ðŸ“ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be auto-updated with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ðŸš€ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/[YourUsername]/[ProjectName1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[ProjectName1]&theme=radical&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/[YourUsername]/[ProjectName2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[ProjectName2]&theme=radical&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-
----
-
-## ðŸ¤ Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/[YourLinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/[YourTwitter]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:[YourEmail]@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://[YourWebsite].com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://dev.to/[YourDevTo]">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
-
----
-
-## ðŸ“ˆ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## ðŸŽ¯ Current Focus
-
-- ðŸŒ Building full-stack applications with modern technologies
-- ðŸ¤– Exploring AI/ML integration in web development
-- ðŸ“± Learning mobile development with React Native/Flutter
-- ðŸš€ Contributing to open-source projects
-- ðŸ“š Sharing knowledge through technical blog posts
-
----
-
-## ðŸ’¡ Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</div>
-
----
-
-## ðŸ† Achievements & Certifications
-
-- ðŸ¥‡ **[Certification Name]** - [Issuing Organization] ([Year])
-- ðŸ… **[Achievement Title]** - [Description] ([Year])
-- ðŸŽ–ï¸ **[Award Name]** - [Details] ([Year])
-
----
-
-## ðŸ“Š Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!-- Wakatime stats will be displayed here -->
-<!--END_SECTION:waka-->
-
----
-
-## ðŸŽ® When I'm Not Coding
-
-- ðŸŽµ Listening to music and discovering new artists
-- ðŸ“– Reading tech blogs and staying updated with industry trends  
-- ðŸŽ¯ Playing strategic games and puzzles
-- ðŸŒ± Learning new technologies and frameworks
-- â˜• Brewing the perfect cup of coffee
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <h3>ðŸ’– Thanks for visiting my profile!</h3>
-  <p>Feel free to reach out if you want to collaborate on something awesome! ðŸš€</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</div>
-
----
-
-## ðŸ”§ Setup Instructions
-
-### How to Use This Template:
-
-1. **Create Your Profile Repository:**
-   - Go to [GitHub](https://github.com/new)
-   - Create a repository with the same name as your username
-   - Make it public and initialize with a README
-
-2. **Customize the Content:**
-   - Replace `[YourUsername]` with your GitHub username
-   - Replace `[Your Name]` with your actual name
-   - Update all placeholder links and information
-   - Add your actual projects, skills, and bio
-
-3. **Set Up Dynamic Features:**
-   - **Blog Posts:** Follow [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) setup
-   - **Activity:** Use [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-   - **Wakatime:** Set up [wakatime-readme-stats](https://github.com/anmol098/waka-readme-stats)
-
-4. **Optional Enhancements:**
-   - Add custom GIFs or images
-   - Create personalized banners using tools like [Canva](https://canva.com)
-   - Use different themes for stats cards
-   - Add more interactive elements
-
-### Pro Tips:
-- Keep your README updated regularly
-- Use consistent theming across all elements
-- Don't overcrowd with too many badges
-- Make sure all links work properly
-- Consider mobile responsiveness
-- Add your personality but keep it professional
-
-**Remember:** This is your digital business card. Make it reflect who you are as a developer! ðŸŒŸ
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
