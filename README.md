@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm Tushar Sonar.<br>Pursuing Master's in Computer Application @VJTI<br>Passionate about web development, machine learning, and building practical projects.<br>I enjoy experimenting with new technologies, solving real-world problems, and continuously improving my skills.
+# 👋 Hey, I’m Tushar Sonar
+
+🎓 Master’s in Computer Application @ **VJTI**  
+💻 Exploring **Web Development**, **Machine Learning**, and innovative projects  
+🦾 **“Suit up. Code hard. Innovate endlessly.”**  
+⚡ On a mission to turn ideas into reality — one line of code at a time 🚀
 
 
 ## 🌐 Socials:
