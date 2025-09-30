@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I’m Tushar Sonar
+### 👋 Hey, I’m **Tushar Sonar.**
 
 🎓 Master’s in Computer Application @ **VJTI**  
 💻 Exploring **Web Development**, **Machine Learning**, and innovative projects  
